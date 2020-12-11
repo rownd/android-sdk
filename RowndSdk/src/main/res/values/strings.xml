@@ -1,0 +1,9 @@
+<!--
+ - RowndSdk
+ -
+ - This file was automatically generated for rownd-sdk by APIMATIC v2.0 ( https://apimatic.io ).
+-->
+<resources>
+    <string name="app_name">RowndSdk</string>
+    <string name="preference_file_key">rowndsdk_prefs</string>
+</resources>
