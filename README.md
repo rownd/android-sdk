@@ -25,8 +25,7 @@ In order to setup authentication and initialization of the API client, you need 
 
 API client can be initialized as following. The `appContext` being passed is the Android application [`Context`](https://developer.android.com/reference/android/content/Context.html).
 
-```
-java
+```java
 // Configuration parameters and credentials
 String xRowndAppKey = ""TODO: Replace""; // API Key: Create keys at https://app.rownd.io
 String xRowndAppSecret = ""TODO: Replace""; // API Secret: Create keys at https://app.rownd.io
